@@ -1,3 +1,13 @@
-t
-est
+Fix Git Add
+git init
+git add -A
+git commit -m 'Fix bad repo'
+git push
+
+Commands
+Install GIT: sudo yum install git
+create GIT repository
+copy link
+Clone link in AWS: git clone https://github.com/bmgpre/react-basics.git
+
 
