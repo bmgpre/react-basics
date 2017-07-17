@@ -1,0 +1,19 @@
+{
+  "name": "react-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmgpre/react-basics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmgpre/react-basics/issues"
+  },
+  "homepage": "https://github.com/bmgpre/react-basics#readme"
+}
